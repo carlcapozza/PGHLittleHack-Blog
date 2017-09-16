@@ -1,4 +1,5 @@
-baseURL = "https://carlcapozza.github.io/PGHLittleHack-Blog"
+baseURL = "https://carlcapozza.github.io/PGHLittleHack-Blog/"
 languageCode = "en-us"
 title = "PGH Little Hacks"
 theme = "ananke"
+publishDir = "docs"
