@@ -1,0 +1,5 @@
+baseURL = "https://carlcapozza.github.io/"
+languageCode = "en-us"
+title = "PGH Little Hacks"
+theme = "ananke"
+publishDir = "docs"
